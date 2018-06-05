@@ -3572,7 +3572,7 @@
     },
     "Wreckage Components": {
       "es": null,
-      "pt": "Destroços de componentes",
+      "pt": "Componentes de Destroços",
       "de": "Wrackteile",
       "fr": "Composants d'Épave",
       "ru": "Обломки кораблекрушений",
@@ -3824,7 +3824,7 @@
     },
     "Group ingredients?": {
       "es": null,
-      "pt": null,
+      "pt": "Grupo de Ingredientes?",
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
       "ru": "Группировать ингредиенты?",
@@ -3842,7 +3842,7 @@
     },
     "Carrying ": {
       "es": null,
-      "pt": null,
+      "pt": "Transporte",
       "de": null,
       "fr": "Capacité",
       "ru": "В наличии ",
@@ -3851,7 +3851,7 @@
     },
     "Emission Data": {
       "es": null,
-      "pt": null,
+      "pt": "Dados de Emissão",
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
       "ru": "Данные об излучениях",
@@ -3869,7 +3869,7 @@
     },
     "Shield Data": {
       "es": null,
-      "pt": null,
+      "pt": "Dados de Escudo",
       "de": "Schilddaten",
       "fr": "Données de bouclier",
       "ru": "Данные о щитах",
@@ -3878,7 +3878,7 @@
     },
     "Encryption Files": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos de Criptografia",
       "de": "Verschlüsselungsdaten",
       "fr": "Fichiers cryptés",
       "ru": "Файлы шифрования",
@@ -3887,7 +3887,7 @@
     },
     "Data Archives": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos de Dados",
       "de": "Datenarchive",
       "fr": "Archives de données",
       "ru": "Архивы данных",
@@ -3896,7 +3896,7 @@
     },
     "Encoded Firmware": {
       "es": null,
-      "pt": null,
+      "pt": "Firmware Codificado",
       "de": "Codierte Firmware",
       "fr": "Micrologiciels encodés",
       "ru": "Закодированные микропрограммы",
@@ -3968,7 +3968,7 @@
     },
     "Chemical": {
       "es": null,
-      "pt": null,
+      "pt": "Substância Química",
       "de": "Chemikalien",
       "fr": "Produits chimiques",
       "ru": "Химикаты",
@@ -3986,7 +3986,7 @@
     },
     "Heat": {
       "es": null,
-      "pt": null,
+      "pt": "Calor",
       "de": "Hitze",
       "fr": "Chaleur",
       "ru": "Теплообмен",
@@ -3995,7 +3995,7 @@
     },
     "Conductive": {
       "es": null,
-      "pt": null,
+      "pt": "Condutor",
       "de": "Leiter",
       "fr": "Conducteurs",
       "ru": "Проводники",
@@ -4013,7 +4013,7 @@
     },
     "Shielding": {
       "es": null,
-      "pt": null,
+      "pt": "Blindagem",
       "de": "Abschirmung",
       "fr": "Protection",
       "ru": "Защита",
@@ -4022,7 +4022,7 @@
     },
     "Composite": {
       "es": null,
-      "pt": null,
+      "pt": "Composto",
       "de": "Komposite",
       "fr": "Composites",
       "ru": "Композиты",
@@ -4031,7 +4031,7 @@
     },
     "Crystals": {
       "es": null,
-      "pt": null,
+      "pt": "Cristais",
       "de": "Kristalle",
       "fr": "Cristaux",
       "ru": "Кристаллы",
@@ -4130,7 +4130,7 @@
     },
     "Guardian Vessel Blueprint Segment": {
       "es": null,
-      "pt": null,
+      "pt": "Diagrama de Segmento de Nave Guardian",
       "de": "Guardian-Schiffsbauplansegment",
       "fr": null,
       "ru": "Сегмент чертежа судна стражей",
@@ -4211,7 +4211,7 @@
     },
     "Meta Alloy Hull Reinforcement": {
       "es": null,
-      "pt": null,
+      "pt": "Reforço de Casco Liga Meta",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4238,7 +4238,7 @@
     },
     "Shock Cannon (Fixed)": {
       "es": null,
-      "pt": "Canhão Elétrico (Fixa)",
+      "pt": "Canhão Elétrico (Fixo)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4247,7 +4247,7 @@
     },
     "Shock Cannon (Gimballed)": {
       "es": null,
-      "pt": "Canhão Elétrico (Guiada)",
+      "pt": "Canhão Elétrico (Guiado)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4265,7 +4265,7 @@
     },
     "Concordant Sequence": {
       "es": null,
-      "pt": null,
+      "pt": "Sequência Concordante",
       "de": null,
       "fr": null,
       "ru": "Последовательность координации",
@@ -4274,7 +4274,7 @@
     },
     "Regeneration Sequence": {
       "es": null,
-      "pt": null,
+      "pt": "Sequência de Regeneração",
       "de": null,
       "fr": null,
       "ru": "Последовательность восстановления",
@@ -4283,7 +4283,7 @@
     },
     "Thermal Conduit": {
       "es": null,
-      "pt": null,
+      "pt": "Conduíte Térmico",
       "de": null,
       "fr": null,
       "ru": "Проводник тепла",
@@ -4292,7 +4292,7 @@
     },
     "Thermal Shock": {
       "es": null,
-      "pt": null,
+      "pt": "Absorvente Térmico",
       "de": null,
       "fr": null,
       "ru": "Тепловой удар",
@@ -4301,7 +4301,7 @@
     },
     "Thermal Vent": {
       "es": null,
-      "pt": null,
+      "pt": "Suspiro Térmico",
       "de": null,
       "fr": null,
       "ru": "Теплоотдача",
@@ -4310,7 +4310,7 @@
     },
     "Oversized": {
       "es": null,
-      "pt": null,
+      "pt": "Grande Demais",
       "de": null,
       "fr": null,
       "ru": "Сверхразмер",
@@ -4319,7 +4319,7 @@
     },
     "Stripped Down": {
       "es": null,
-      "pt": null,
+      "pt": "Descascado",
       "de": null,
       "fr": null,
       "ru": "Урезанный вариант",
@@ -4328,7 +4328,7 @@
     },
     "Double Braced": {
       "es": null,
-      "pt": null,
+      "pt": "Apoio Duplo",
       "de": null,
       "fr": null,
       "ru": "Двойная прочность",
@@ -4337,7 +4337,7 @@
     },
     "Flow Control": {
       "es": null,
-      "pt": null,
+      "pt": "Controle de Fluxo",
       "de": null,
       "fr": null,
       "ru": "Контроль интенсивности",
@@ -4346,7 +4346,7 @@
     },
     "Inertial Impact": {
       "es": null,
-      "pt": null,
+      "pt": "Impacto Inercial",
       "de": null,
       "fr": null,
       "ru": "Инерционный удар",
@@ -4364,7 +4364,7 @@
     },
     "Scramble Spectrum": {
       "es": null,
-      "pt": null,
+      "pt": "Espectro de Embaralhamento",
       "de": null,
       "fr": null,
       "ru": "Отключающая сетка",
@@ -4373,7 +4373,7 @@
     },
     "Multi-Servos": {
       "es": null,
-      "pt": null,
+      "pt": "Multi-servos",
       "de": null,
       "fr": null,
       "ru": "Сервосистема",
@@ -4382,7 +4382,7 @@
     },
     "Emissive Munitions": {
       "es": null,
-      "pt": null,
+      "pt": "Munições Enissivas",
       "de": null,
       "fr": null,
       "ru": "Эмиссионные припасы",
@@ -4391,7 +4391,7 @@
     },
     "Auto Loader": {
       "es": null,
-      "pt": null,
+      "pt": "Auto-Carregador",
       "de": null,
       "fr": null,
       "ru": "Автоматическая система заряжания",
@@ -4400,7 +4400,7 @@
     },
     "Corrosive Shell": {
       "es": null,
-      "pt": null,
+      "pt": "Carcaça Corrosiva",
       "de": null,
       "fr": null,
       "ru": "Разъедающие боеприпасы",
@@ -4409,7 +4409,7 @@
     },
     "Incendiary Rounds": {
       "es": null,
-      "pt": null,
+      "pt": "Munição Incendiária",
       "de": null,
       "fr": null,
       "ru": "Зажигательные припасы",
@@ -4418,7 +4418,7 @@
     },
     "Smart Rounds": {
       "es": null,
-      "pt": null,
+      "pt": "Munição Inteligente",
       "de": null,
       "fr": null,
       "ru": "Умные боеприпасы",
@@ -4427,7 +4427,7 @@
     },
     "Dispersal Field": {
       "es": null,
-      "pt": null,
+      "pt": "Campo de Dispersão",
       "de": null,
       "fr": null,
       "ru": "Рассеивающее поле",
@@ -4436,7 +4436,7 @@
     },
     "Force Shell": {
       "es": null,
-      "pt": null,
+      "pt": "Cartucho de Força",
       "de": null,
       "fr": null,
       "ru": "Усиленные снаряды",
@@ -4445,7 +4445,7 @@
     },
     "High Yield Shell": {
       "es": null,
-      "pt": null,
+      "pt": "Cartucho de Alto Rendimento",
       "de": null,
       "fr": null,
       "ru": "Снаряды большой мощности",
@@ -4454,7 +4454,7 @@
     },
     "Thermal Cascade": {
       "es": null,
-      "pt": null,
+      "pt": "Cascata Térmica",
       "de": null,
       "fr": null,
       "ru": "Термический залп",
@@ -4463,7 +4463,7 @@
     },
     "Dazzle Shell": {
       "es": null,
-      "pt": null,
+      "pt": "Carcaça Ofuscante",
       "de": null,
       "fr": null,
       "ru": "Ослепляющие снаряды",
