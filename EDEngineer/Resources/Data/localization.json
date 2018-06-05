@@ -3824,7 +3824,7 @@
     },
     "Group ingredients?": {
       "es": null,
-      "pt": null,
+      "pt": "Grupo de ingredientes",
       "de": "Gruppenzutaten?",
       "fr": "Groupe d'ingrédients ?",
       "ru": "Группировать ингредиенты?",
@@ -3842,7 +3842,7 @@
     },
     "Carrying ": {
       "es": null,
-      "pt": null,
+      "pt": "Transportando",
       "de": null,
       "fr": "Capacité",
       "ru": "В наличии ",
@@ -3851,7 +3851,7 @@
     },
     "Emission Data": {
       "es": null,
-      "pt": null,
+      "pt": "Informação de Emissão",
       "de": "Emissionsdaten",
       "fr": "Données d'émission",
       "ru": "Данные об излучениях",
@@ -3869,7 +3869,7 @@
     },
     "Shield Data": {
       "es": null,
-      "pt": null,
+      "pt": "Informação de Escudo",
       "de": "Schilddaten",
       "fr": "Données de bouclier",
       "ru": "Данные о щитах",
@@ -3878,7 +3878,7 @@
     },
     "Encryption Files": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos Codificados",
       "de": "Verschlüsselungsdaten",
       "fr": "Fichiers cryptés",
       "ru": "Файлы шифрования",
@@ -3887,7 +3887,7 @@
     },
     "Data Archives": {
       "es": null,
-      "pt": null,
+      "pt": "Arquivos de Informação",
       "de": "Datenarchive",
       "fr": "Archives de données",
       "ru": "Архивы данных",
@@ -3896,7 +3896,7 @@
     },
     "Encoded Firmware": {
       "es": null,
-      "pt": null,
+      "pt": "Firmware Codificado",
       "de": "Codierte Firmware",
       "fr": "Micrologiciels encodés",
       "ru": "Закодированные микропрограммы",
